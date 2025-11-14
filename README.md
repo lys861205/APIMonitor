@@ -24,7 +24,7 @@
 
 3. 运行脚本：
    ```
-   python3 api_monitor.py
+   python api_monitor.py
    ```
 
 ## 文件说明
